@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://rfxlamia.space](https://rfxlamia.space)**
 
-- 📝 I regularly write articles on **[https://rfxlamia.space/research](https://rfxlamia.space/research)**
+- 📝 I regularly doing research on **[https://rfxlamia.space/research](https://rfxlamia.space/research)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
