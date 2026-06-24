@@ -41,7 +41,7 @@ Not because of a bootcamp. Because production pressure is the best teacher there
 
 ### 📫 Reach me
 
-- ✉️ hithere.vvv@gmail.com
+- ✉️ acaciaavante@gmail.com
 - 🌐 [rfxlamia.space](https://rfxlamia.space)
 - 📝 [rfxlamia.space/research](https://rfxlamia.space/research)
 
