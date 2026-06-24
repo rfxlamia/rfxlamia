@@ -1,6 +1,6 @@
 # Hi 👋, I'm V
 
-> *law dropout. production developer. The Gedit Warrior.*
+> *law dropout. production developer.*
 
 ---
 
@@ -17,7 +17,7 @@ Not because of a bootcamp. Because production pressure is the best teacher there
 | [skillkit](https://github.com/rfxlamia/skillkit) | Reusable AI skill framework | 🟢 Active |
 | [Verminal](https://github.com/rfxlamia/verminal) | Multi-agent tiling terminal | 🟡 in progress |
 | [Papyrus](https://github.com/rfxlamia/papyrus) | PDF → Markdown converter in Rust | 🟢 Shipped |
-| [Yagura](https://github.com/rfxlamia/yagura-apps) | Team dashboard | 🟢 Live |
+| [Camel](https://github.com/rfxlamia/camel) | Agentic kanban board | 🟢 Live |
 | [blu](https://github.com/bluworkspace/bluAdventure) | Autonomous philosophical research agent | 🪦 Ended naturally |
 
 ---
