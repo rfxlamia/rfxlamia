@@ -15,7 +15,7 @@ Not because of a bootcamp. Because production pressure is the best teacher there
 | Project | What | Status |
 |---------|------|--------|
 | [skillkit](https://github.com/rfxlamia/skillkit) | Reusable AI skill framework | 🟢 Active |
-| [Verminal](https://github.com/rfxlamia/verminal) | Multi-agent tiling terminal | 🟡 in progress |
+| [Pocket](https://github.com/rfxlamia/pocketto) | AI Framework Development | 🟢 Live in NPM |
 | [Papyrus](https://github.com/rfxlamia/papyrus) | PDF → Markdown converter in Rust | 🟢 Shipped |
 | [Camel](https://github.com/rfxlamia/camel) | Agentic kanban board | 🟢 Live |
 | [blu](https://github.com/bluworkspace/bluAdventure) | Autonomous philosophical research agent | 🪦 Ended naturally |
