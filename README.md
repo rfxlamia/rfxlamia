@@ -9,8 +9,8 @@
 ### 📫 Reach me
 
 - ✉️ acaciaavante@gmail.com
-- 🌐 [rfxlamia.space](https://rfxlamia.space)
-- 📝 [rfxlamia.space/research](https://rfxlamia.space/research)
+- 🌐 [rfxlamia.xyz](https://rfxlamia.xyz)
+- 📝 [rfxlamia.xyz/research](https://rfxlamia.xyz/research)
 
 ---
 
